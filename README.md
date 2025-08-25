@@ -54,7 +54,7 @@ Set up .env:
 env
 Copy
 Edit
-DATABASE_URL="postgresql://user:password@localhost:5432/finance_db"
+DATABASE_URL="postgresql://neondb_owner:npg_yJMCrK6dIxe2@ep-divine-mode-a1h5p95r-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
 Run Prisma migrations:
 
 bash
