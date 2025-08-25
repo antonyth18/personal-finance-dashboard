@@ -37,27 +37,6 @@ Users can add income & expenses, track recurring payments, and set savings goals
 
 ---
 
-## Project Structure
-personal-finance-dashboard/
-├── backend/ # Express + Prisma API
-│ ├── src/
-│ │ ├── routes/ # Expense, Income, Goals
-│ │ ├── schemas/ # Zod validation schemas
-│ │ └── index.ts # App entry point
-│ ├── prisma/
-│ │ └── schema.prisma # Database models
-│ └── package.json
-│
-├── frontend/ # React + Vite client
-│ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Dashboard, Expenses, Goals
-│ │ └── App.tsx
-│ ├── vite.config.ts
-│ └── package.json
-│
-└── README.md
-
 ## Getting Started
 
 ### Clone the repo
