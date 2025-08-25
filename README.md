@@ -58,7 +58,7 @@ personal-finance-dashboard/
 │
 └── README.md
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repo
 ```bash
