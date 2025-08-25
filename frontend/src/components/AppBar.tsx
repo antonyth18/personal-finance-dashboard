@@ -42,7 +42,7 @@ export default function AppBar({heading}: AppBarType) {
 
         <div className="flex items-center justify-center">
             <div className="flex items-center justify-center h-10 w-10 bg-gray-700 rounded-full">
-                {user ? user.username.charAt(0).toUpperCase() : "U"}
+                {user ? user.name.charAt(0).toUpperCase() : "U"}
             </div>
             <div className="pl-4 pr-2 font-medium">
                 {user ? user.name.charAt(0).toUpperCase() + user.name.slice(1) : "loading..."}
