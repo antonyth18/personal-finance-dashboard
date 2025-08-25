@@ -32,7 +32,7 @@ Users can add income & expenses, track recurring payments, and set savings goals
 **Backend**
 - Node.js + Express
 - TypeScript
-- Prisma ORM (PostgreSQL/MySQL/SQLite)
+- Prisma ORM (PostgreSQL)
 - Zod (input validation)
 
 ---
