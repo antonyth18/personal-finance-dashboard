@@ -54,7 +54,7 @@ Set up .env:
 env
 Copy
 Edit
-sslmode=require&channel_binding=require"
+
 Run Prisma migrations:
 
 bash
