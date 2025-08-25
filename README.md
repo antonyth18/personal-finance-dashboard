@@ -25,8 +25,8 @@ Users can add income & expenses, track recurring payments, and set savings goals
 
 **Frontend**
 - React + TypeScript (Vite)
-- TailwindCSS + shadcn/ui (UI components)
-- Recharts (charts/graphs)
+- TailwindCSS (UI components)
+- Chartjs (charts/graphs)
 - Axios (API calls)
 
 **Backend**
